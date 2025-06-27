@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on web projects and learning cloud deployment  <br>🤝 I’m looking to collaborate on full-stack web and DevOps tools  <br>🌱 I’m currently learning DevOps practices and cloud platforms like AWS & Azure  <br><br>
+🔭 I’m currently working on web projects, DevOps and Cloud  <br>🤝 I’m looking to collaborate on full-stack web and DevOps tools  <br>🌱 I’m currently learning DevOps practices and cloud platforms like AWS & Azure  <br><br>
 
 
 ## 🌐 Socials:
