@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on web projects, DevOps and Cloud  <br>
-🤝 I’m looking to collaborate on full-stack web and DevOps tools  <br>
-🌱 I’m currently learning DevOps practices and cloud platforms like AWS & Azure  <br><br>
+🔭 I’m currently working on web projects, DevOps and Cloud  
+🤝 I’m looking to collaborate on full-stack web and DevOps tools  
+🌱 I’m currently learning DevOps practices and cloud platforms like AWS & Azure  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmanadhikari)
@@ -28,9 +28,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=adhikarilaxman&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adhikarilaxman&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-### 👀 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=adhikarilaxman&label=Profile%20Views&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Profile Visits
+![Profile Views](https://komarev.com/ghpvc/?username=adhikarilaxman&label=Profile%20views&color=0e75b6&style=flat)
