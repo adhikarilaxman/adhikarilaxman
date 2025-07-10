@@ -1,6 +1,6 @@
 # About Me:
 🔭 I’m currently working on web projects, DevOps and Cloud               
-🤝 I’m looking to collaborate on full-stack web and DevOps tools                                             
+🤝 I’m looking to collaborate on full-stack web and DevOps tools                                                
 🌱 I’m currently learning DevOps practices and cloud platforms like AWS & Azure                     
   
 ## 🌐 Socials:
