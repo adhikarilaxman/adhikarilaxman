@@ -1,7 +1,5 @@
 # About Me: 
-🔭 I’m currently working on web projects, DevOps and Cloud                                         
-🤝 I’m looking to collaborate on full-stack web and DevOps tools                                                                                   
-🌱 I’m currently learning DevOps practices and cloud platforms like AWS & Azure                                                     
+I am a third-year Computer Engineering student.                                                 
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/laxmanadhikari)
