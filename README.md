@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+Adhikari;Aspiring+DevOps+%26+Cloud+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Laxman+Adhikari;" alt="Typing SVG" />
 </div>
 
 <!-- About Me -->
@@ -144,7 +144,7 @@ Reach me at: **adhikarilaxman441@gmail.com**
 - 📧 **Email:** <a href="mailto:adhikarilaxman441@gmail.com" target="_blank" rel="noopener noreferrer">adhikarilaxman441@gmail.com</a>
 - 🔗 **GitHub:** <a href="https://github.com/adhikarilaxman" target="_blank" rel="noopener noreferrer">github.com/adhikarilaxman</a>
 - 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/laxmanadhikari/" target="_blank" rel="noopener noreferrer">linkedin.com/in/laxmanadhikari</a>
-- 🌐 **Portfolio:** <a href="https://adhikarilaxman.github.io/Portfolio_Website/" target="_blank" rel="noopener noreferrer">adhikarilaxman.github.io/Portfolio_Website</a>
+- 🌐 **Portfolio:** <a href="https://adhikarilaxman.github.io/Portfolio_Website/" target="_blank" rel="noopener noreferrer">adhikarilaxman.github.io/portfolio-website</a>
 
 ---
 
