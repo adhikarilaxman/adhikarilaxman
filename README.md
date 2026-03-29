@@ -133,7 +133,7 @@ Reach me at: **adhikarilaxman441@gmail.com**
   <a href="https://github.com/adhikarilaxman" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://adhikarilaxman.github.io/Portfolio_Website/" target="_blank" rel="noopener noreferrer">
+  <a href="https://adhikarilaxman.github.io/portfolio_website/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
 </div>
